@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///packages/terra-overlay/lib/terra-dev-site/doc/example/OverlayDocCommon.module.scss"],"names":[],"mappings":"AAAA,oDAEI,YAAa,CACb,UAAW","file":"272-2e2e92a5aaa3d139f471.css","sourcesContent":[":local {\n  .overlay-container {\n    height: 100px;\n    width: 100%;\n  }\n}\n"]}

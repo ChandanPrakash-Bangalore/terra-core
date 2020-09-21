@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[711],{2453:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var o=l(n(0)),u=l(n(74));function l(e){return e&&e.__esModule?e:{default:e}}var r=function(){return o.default.createElement(u.default,{title:"Close Action Header",onClose:function(){return alert("You clicked close!")}})};t.default=r}}]);
+//# sourceMappingURL=711-88be91c59c31424dcad5.js.map
